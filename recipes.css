@@ -1,0 +1,27 @@
+figcaption {
+    font-style: italic;
+}
+
+h2 {
+    font-size: 38px;
+}
+
+ul li, ol li {
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+img {
+    width: 500px;
+}
+
+a {
+    color: black;
+    font-size: 24px;
+}
+
+a:hover {
+    background: black;
+    color: white;
+    text-decoration: none;
+}
