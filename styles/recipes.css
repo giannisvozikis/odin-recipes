@@ -1,6 +1,7 @@
 body {
     width: 60%;
     margin: 20px auto;
+    background: rgb(254, 248, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -12,13 +13,21 @@ h2 {
     font-size: 38px;
 }
 
+ul, ol {
+    background: rgb(250, 232, 254);
+    border-radius: 10px;
+    padding: 40px 80px;
+}
+
 ul li, ol li {
+    margin-bottom: 10px;
     font-size: 22px;
     line-height: 1.8;
 }
 
 img {
     width: 500px;
+    border-radius: 10px;
 }
 
 img, figcaption {
