@@ -1,7 +1,7 @@
 body {
     width: 60%;
     margin: 20px auto;
-    background: rgb(254, 248, 255);
+    background: rgb(248, 255, 251);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -14,7 +14,7 @@ h2 {
 }
 
 ul, ol {
-    background: rgb(250, 232, 254);
+    background: rgb(232, 254, 242);
     border-radius: 10px;
     padding: 40px 80px;
 }
