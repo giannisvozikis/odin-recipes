@@ -25,6 +25,6 @@ a {
 }
 
 a:hover {
-    background: black;
+    background: rgb(160, 194, 176);
     color: white;
 }
